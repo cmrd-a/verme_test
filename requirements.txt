@@ -1,4 +1,4 @@
-django==3.0.8
+django==3.0.14
 djangorestframework==3.11.0
 django-environ==0.4.5
 pytest==5.4.3
